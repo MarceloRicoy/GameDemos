@@ -32,3 +32,11 @@ Jogo 2D de tiro-plataforma
 
 ![](Gifs/SCSBoss.gif)
 
+- **Lançamento de projetil**
+
+- **Ataques de forma senoidal**
+
+- **Identificador de plataformas**
+
+- **Explorando o uso de joints para diferentes mecanicas**
+
