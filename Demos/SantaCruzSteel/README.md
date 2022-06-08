@@ -1,6 +1,6 @@
 # Santa Cruz Steel (em desenvolvimento)
 
-<img src="../../images/MenuSCS.PNG" width=500px/>
+<img src="../../images/MenuSCS.png" width=500px/>
 
 ## Historia
 
@@ -12,8 +12,23 @@ Jogo 2D de tiro-plataforma
 
 ## Mecanicas
 
-- Mira de 15° em 15°
-![](Gifs/SCSAim.gif)
-- Mecanica de rolamento
+- **Mira de 15° em 15°**
 
+![](Gifs/SCSAim.gif)
+
+- **Rolamento**
+
+![](Gifs/SCSRoll.gif)
+
+- **IA Precisa no controle dos inimigos (mirar/atirar/movimentar)**
+
+![](Gifs/SCSEnemyAI_1.gif)
+
+- **Diferentes Puzzles e desafios**
+
+![](Gifs/SCSLaser.gif)
+
+- **Bosses com diferentes mecanicas**
+
+![](Gifs/SCSBoss.gif)
 
