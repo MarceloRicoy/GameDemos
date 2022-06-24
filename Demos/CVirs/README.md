@@ -1,4 +1,4 @@
-# Toontens (em desenvolvimento)
+# C-Virus
 
 <img src="../../images/cMain.png" width=300px/>
 
