@@ -1,4 +1,4 @@
-# Corrupted Veil (em desenvolvimento)
+# Corrupted Veil 
 
 <img src="../../images/CorruptedVeil.png" width=500px/>
 
