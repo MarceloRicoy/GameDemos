@@ -4,7 +4,7 @@
 
 ## Genre
 
-Jogo 3D FPS Boomer Shooter
+3D FPS Boomer Shooter
 
 ![](Gifs/Block.gif)
 ![](Gifs/Melee.gif)
